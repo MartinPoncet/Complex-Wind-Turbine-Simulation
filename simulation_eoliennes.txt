@@ -1,0 +1,42 @@
+Jour 0 Vent 0	Eolienne 0 +0.000000MW	
+Production 0.000000	Cout 0
+Jour 1 Vent 1	Eolienne 0 +0.400000MW	
+Production 0.400000	Cout 0
+Jour 2 Vent 1	Eolienne 0 +0.400000MW	
+Production 0.800000	Cout 0
+Jour 3 Vent 1	Eolienne 0 +0.400000MW	
+Production 1.200000	Cout 0
+Jour 4 Vent 1	Eolienne 0 +0.400000MW	
+Production 1.600000	Cout 0
+Jour 5 Vent 1	Eolienne 0 +0.400000MW	
+Production 2.000000	Cout 0
+Jour 6 Vent 2	Eolienne 0 cassée	
+Production 2.000000	Cout 0
+Jour 7 Vent 1	Eolienne 0 cassée 1/3	
+Production 2.000000	Cout 150000
+Jour 8 Vent 2	Eolienne 0 cassée 1/3	
+Production 2.000000	Cout 150000
+Jour 9 Vent 1	Eolienne 0 cassée 2/3	
+Production 2.000000	Cout 150000
+Jour 10 Vent 2	Eolienne 0 cassée 2/3	
+Production 2.000000	Cout 150000
+Jour 11 Vent 1	Eolienne 0 cassée 3/3	
+Production 2.000000	Cout 150000
+Jour 12 Vent 1	Eolienne 0 +0.400000MW	
+Production 2.400000	Cout 150000
+Jour 13 Vent 1	Eolienne 0 +0.400000MW	
+Production 2.800000	Cout 150000
+Jour 14 Vent 1	Eolienne 0 +0.400000MW	
+Production 3.200000	Cout 150000
+Jour 15 Vent 1	Eolienne 0 +0.400000MW	
+Production 3.600000	Cout 150000
+Jour 16 Vent 1	Eolienne 0 +0.400000MW	
+Production 4.000000	Cout 150000
+Jour 17 Vent 1	Eolienne 0 +0.400000MW	
+Production 4.400001	Cout 150000
+Jour 18 Vent 1	Eolienne 0 +0.400000MW	
+Production 4.800001	Cout 150000
+Jour 19 Vent 1	Eolienne 0 +0.400000MW	
+Production 5.200001	Cout 150000
+
+Production totale 5.200001	Cout total 150000
