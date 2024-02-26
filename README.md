@@ -59,21 +59,21 @@ The file also contains the total energy production and total cost of repairs for
 
 The following is an example of the output of the program:
 
-Jour 0 Vent 0	Eolienne 0 +0.000000MW	
-Production 0.000000	Cout 0
-Jour 1 Vent 1	Eolienne 0 +0.400000MW	
-Production 0.400000	Cout 0
-Jour 2 Vent 1	Eolienne 0 +0.400000MW	
-Production 0.800000	Cout 0
-Jour 3 Vent 1	Eolienne 0 +0.400000MW	
-Production 1.200000	Cout 0
-Jour 4 Vent 1	Eolienne 0 +0.400000MW	
-Production 1.600000	Cout 0
-Jour 5 Vent 1	Eolienne 0 +0.400000MW	
-Production 2.000000	Cout 0
-Jour 6 Vent 2	Eolienne 0 cassée	
-Production 2.000000	Cout 0
-Jour 7 Vent 1	Eolienne 0 cassée 1/3	
-Production 2.000000	Cout 150000
-
-Production totale 5.200001	Cout total 150000
+Jour 0 Vent 0	Eolienne 0 +0.000000MW<br>
+Production 0.000000	Cout 0<br>
+Jour 1 Vent 1	Eolienne 0 +0.400000MW<br>	
+Production 0.400000	Cout 0<br>
+Jour 2 Vent 1	Eolienne 0 +0.400000MW	<br>
+Production 0.800000	Cout 0<br>
+Jour 3 Vent 1	Eolienne 0 +0.400000MW	<br>
+Production 1.200000	Cout 0<br>
+Jour 4 Vent 1	Eolienne 0 +0.400000MW	<br>
+Production 1.600000	Cout 0<br>
+Jour 5 Vent 1	Eolienne 0 +0.400000MW	<br>
+Production 2.000000	Cout 0<br>
+Jour 6 Vent 2	Eolienne 0 cassée	<br>
+Production 2.000000	Cout 0<br>
+Jour 7 Vent 1	Eolienne 0 cassée 1/3	<br>
+Production 2.000000	Cout 150000<br>
+<br>
+Production totale 5.200001	Cout total 150000<br>
